@@ -144,6 +144,7 @@ header div {
 }
 .column {
   flex: 1 0 auto;
+  scroll-margin: 40px;
   scroll-snap-align: start;
 }
 .column:first-child {
